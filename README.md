@@ -1,2 +1,7 @@
-# mongodb-basics
-NodeJs task2
+# Images in Readme
+
+![](images/mongoexe.JPG)
+
+![](images/consoledb.JPG)
+
+![](images/collect.JPG)
